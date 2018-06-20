@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1529205692 source:c:\users\khavin shankar\documents\code blocks\blockchain model\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+	"sha256.h"
+
+1528677371 source:c:\users\khavin shankar\documents\code blocks\blockchain model\sha256.cpp
+	<cstring>
+	<fstream>
+	"sha256.h"
+
+1528644381 c:\users\khavin shankar\documents\code blocks\blockchain model\sha256.h
+	<string>
+
